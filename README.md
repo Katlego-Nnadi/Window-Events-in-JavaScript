@@ -4,13 +4,13 @@ Short description or tagline of your project.
 
 ## Table of Contents
 
-- [Frames and windows](#Frames and windows)
+- [Frames and windows](#Frames-and-windows)
 - [Cross-window Communication](#Cross-window Communication)
 - [Contributing](#contributing)
 - [License](#license)
 
 
-## Frames and windows
+## Frames-and-windows
 
 Popups and window methods 
 A popup window is one of the oldest methods to show the additional documents to the user. 

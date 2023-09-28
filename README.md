@@ -12,7 +12,7 @@ Short description or tagline of your project.
 
 ## Frames-and-windows
 
-Popups and window methods 
+### Popups and window methods 
 A popup window is one of the oldest methods to show the additional documents to the user. 
 Popups exist from ancient times. The initial idea was to show another content without closing the main window. 
 A popup is a separate window with its own independent JavaScript environment. So opening a popup with a third-party non-trusted site is safe. 
